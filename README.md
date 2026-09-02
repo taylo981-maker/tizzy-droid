@@ -2,8 +2,7 @@
 <br>
 <br> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com? 
-font=Fira+Code&size=36&pause=1000&color=321EFF&width=435&lines=HELLO%2C+MANE+IS+TAYLO;I'M+20+YEARS+OLD;LIVES+IN+CAMA%C3%87ARI%2FBA;DEVELOP+IN+JAVA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=321EFF&width=435&lines=HELLO%2C+MANE+IS+TAYLO;I'M+20+YEARS+OLD;LIVES+IN+CAMA%C3%87ARI%2FBA;DEVELOP+IN+JAVA" alt="Typing SVG" /></a>
 <br>
 <br>
 <br>
