@@ -10,7 +10,7 @@
 <h2>Sobre mim</h2>
 
 <p>
-Meu nome é <strong>Matheus Lucas Santos Lima</strong> e estou construindo minha trajetória na área de desenvolvimento de software.
+Meu nome é <strong>Matheus Taylo Brandao Lima</strong> e estou construindo minha trajetória na área de desenvolvimento de software.
 </p>
 
 <p>
