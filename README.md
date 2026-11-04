@@ -3,14 +3,21 @@
 <br> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=321EFF&width=435&lines=HELLO+WORD%2C+MANE+IS+TAYLO;I'M+20+YEARS+OLD;LIVES+IN+CAMA%C3%87ARI%2FBA;DEVELOP+IN+JAVA+C+SQL" alt="Typing SVG" />
+<hr>
 </a>
+
+</div>
+
 <br>
-<br>
-<br>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
 <h2>Sobre mim</h2>
 
 <p>
-Meu nome é <strong>Matheus Taylo Brandao Lima</strong> e estou construindo minha trajetória na área de desenvolvimento de software.
+Meu nome é <strong>Matheus Lucas Santos Lima</strong> e estou construindo minha trajetória na área de desenvolvimento de software.
 </p>
 
 <p>
@@ -57,6 +64,95 @@ Busco desenvolver uma base sólida em programação, criar projetos práticos e 
 <td>Full Stack</td>
 </tr>
 </table>
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h2 align="center">Tecnologias</h2>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=java,c,js,python,html,css,git,vscode"
+  alt="Tecnologias"
+/>
+
+</div>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="150">
+
+<img width="48" src="https://skillicons.dev/icons?i=java">
+
+<br><br>
+
+<strong>Java</strong>
+
+<br>
+
+<sub>Estudando atualmente</sub>
+
+</td>
+
+<td align="center" width="150">
+
+<img width="48" src="https://skillicons.dev/icons?i=c">
+
+<br><br>
+
+<strong>C</strong>
+
+<br>
+
+<sub>Conhecimento básico</sub>
+
+</td>
+
+<td align="center" width="150">
+
+<img width="48" src="https://skillicons.dev/icons?i=js">
+
+<br><br>
+
+<strong>JavaScript</strong>
+
+<br>
+
+<sub>Conhecimento básico</sub>
+
+</td>
+
+<td align="center" width="150">
+
+<img width="48" src="https://skillicons.dev/icons?i=python">
+
+<br><br>
+
+<strong>Python</strong>
+
+<br>
+
+<sub>Conhecimento básico</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<hr>
 
 <div align="center"> 
 <a href="https://www.instagram.com/tthayl__/" target="_blank">
