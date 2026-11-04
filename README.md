@@ -2,9 +2,11 @@
 <br>
 <br> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=321EFF&width=435&lines=HELLO+WORD%2C+MANE+IS+TAYLO;I'M+20+YEARS+OLD;LIVES+IN+CAMA%C3%87ARI%2FBA;DEVELOP+IN+JAVA%FC%FSQL%FPYTHON" alt="Typing SVG" />
-<hr>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=321EFF&width=800&lines=OL%C3%81+PESSOAL%2C+MEU+NOME+%C3%89+TAYLO+BRANDAO;TENHO+20+ANOS;MORO+EM+CAMA%C3%87ARI%2FBA;TRABALHO+COM+JAVA%2C+C%2C+PYTHON;JAVASCRIPT+E+SGBD" alt="Typing SVG" />
 </a>
+<hr>
 
 </div>
 
