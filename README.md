@@ -7,6 +7,56 @@
 <br>
 <br>
 <br>
+<h2>Sobre mim</h2>
+
+<p>
+Meu nome é <strong>Matheus Lucas Santos Lima</strong> e estou construindo minha trajetória na área de desenvolvimento de software.
+</p>
+
+<p>
+Atualmente curso o <strong>2º semestre no SENAI</strong> e concentro meus estudos em <strong>Java</strong> e <strong>Banco de Dados</strong>.
+</p>
+
+<p>
+Também possuo conhecimentos básicos em <strong>C, JavaScript e Python</strong>, além de HTML e CSS.
+</p>
+
+<p>
+Busco desenvolver uma base sólida em programação, criar projetos práticos e evoluir gradualmente para o desenvolvimento <strong>Full Stack</strong>.
+</p>
+
+</td>
+
+<td width="45%" valign="top">
+
+<h2>Informações</h2>
+
+<table>
+<tr>
+<td><strong>Formação</strong></td>
+<td>SENAI</td>
+</tr>
+
+<tr>
+<td><strong>Semestre</strong></td>
+<td>2º semestre</td>
+</tr>
+
+<tr>
+<td><strong>Foco atual</strong></td>
+<td>Java</td>
+</tr>
+
+<tr>
+<td><strong>Estudos</strong></td>
+<td>Banco de Dados</td>
+</tr>
+
+<tr>
+<td><strong>Objetivo</strong></td>
+<td>Full Stack</td>
+</tr>
+</table>
 
 <div align="center"> 
 <a href="https://www.instagram.com/tthayl__/" target="_blank">
